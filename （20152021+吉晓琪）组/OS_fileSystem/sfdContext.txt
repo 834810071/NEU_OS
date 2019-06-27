@@ -1,0 +1,1 @@
+  2    file1    11    dir2    12    2    file1    19    dir    20    2    file1    14    dir2    15    0    0    0    0    0    1    file3    13    2    file1    16    dir2    17    1    file1    18    1    file1    21  
